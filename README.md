@@ -1,3 +1,3 @@
-DS and AL
+## DS and AL
 
-To improve my Data Structure and Algorithms skills, I'll be attempting online challenges and fix them as best as I can with help and push my solutions to this repo
+To enhance my proficiency in Data Structures and Algorithms, I will be engaging in several Algorithm challenges, refine my solutions as needed, and then push the solutions to this repo.
